@@ -1,2 +1,5 @@
 Hello, I want to fix some issues on this project.
 I want to compile fontawesome with webpack
+
+
+I can help with that. Marcos
