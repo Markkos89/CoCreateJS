@@ -1,4 +1,2 @@
-Hello, I want to rent your Upwork account.
-I will pay monthly(payment is reasonable) and will use your PC/laptop full-time(24hr/day).
-If you are interest to me please contact via skype.
-live:.cid.18327afb03fee415
+Hello, I want to fix some issues on this project.
+I want to compile fontawesome with webpack
